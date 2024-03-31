@@ -6,7 +6,7 @@ function Header() {
     <header>
       <div className="container flex items-center justify-between py-4">
         <a className="font-bold text-2xl" href="app.js">
-          NFT-Market
+          Weather-App
         </a>
         <Navbar />
       </div>

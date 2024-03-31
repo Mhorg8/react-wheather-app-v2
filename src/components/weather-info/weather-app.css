@@ -1,0 +1,22 @@
+.weather-app {
+  width: 100%;
+  height: 91vh;
+  background-color: #ffeecc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img-content {
+  width: 100%;
+  height: 200px;
+}
+.img-content img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  aspect-ratio: 1/6;
+}
+.text-content {
+  margin-top: 50px;
+}

@@ -8,6 +8,10 @@ module.exports = {
       center: true,
       padding: '4rem'
     },
+    fontFamily: {
+      "Anton": ["Anton", "sans-serf"],
+      "Kanit": ["Kanit"]
+    },
     extend: {
     },
   },
